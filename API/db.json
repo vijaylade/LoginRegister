@@ -1,0 +1,52 @@
+{
+  "login": [
+    {
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "id": "bb88"
+    },
+    {
+      "id": "0554",
+      "email": "abc@gmail.com",
+      "password": "7894"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "pratik patil",
+      "email": "pratik@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "name": "vijay",
+      "email": "vijay@gmail.com",
+      "password": "1452"
+    },
+    {
+      "id": "3",
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "7894"
+    },
+    {
+      "id": "4",
+      "name": "token",
+      "email": "token@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "5",
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "password": "7788"
+    },
+    {
+      "id": 6,
+      "name": "Aniket",
+      "email": "aniket@gmail.com",
+      "password": "1999"
+    }
+  ]
+}
